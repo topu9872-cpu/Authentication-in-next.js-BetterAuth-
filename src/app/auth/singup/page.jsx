@@ -38,7 +38,7 @@ callbackURL:'/auth/singin'
 
   return (
     <div className=" mx-auto mt-10 ">
-      <h2 className="text-center pb-8 text-3xl font-bold">plese singup</h2>
+      <h2 className="text-center pb-8 text-3xl font-bold">please singup</h2>
       <Form
         className="flex w-96 flex-col gap-4 border-2 p-8 rounded-4xl"
         onSubmit={onSubmit}
